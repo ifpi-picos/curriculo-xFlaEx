@@ -29,3 +29,13 @@ IMG.centraliza{
     
     border-radius: 10%;
 }
+.imagem{
+    display: inline-block;
+    vertical-align: top;
+    width: 5%;
+}
+.borda{
+    border-top: 2px solid #fff;
+    width: 100%;
+
+}
